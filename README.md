@@ -1,5 +1,8 @@
 Hola,Soy TheNightBlue
-![Static Badge](https://img.shields.io/badge/fa?logo=adminer)
+
+
+![Discord Badge](https://img.shields.io/badge/TuTexto-5865F2?style=flat&logo=discord&logoColor=black)
+
 
 
 <!--
