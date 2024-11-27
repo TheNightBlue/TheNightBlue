@@ -1,7 +1,7 @@
 Hola,Soy TheNightBlue
 
 
-![Discord Badge](https://img.shields.io/badge/TuTexto-5865F2?style=flat&logo=discord&logoColor=black)
+![Discord Badge](https://img.shields.io/badge/yodelfuturo-5865F2?style=flat&logo=discord&logoColor=black)
 
 
 
