@@ -1,5 +1,6 @@
 Hola,Soy TheNightBlue
-https://img.shields.io/badge/fa?logo=adminer
+![Static Badge](https://img.shields.io/badge/fa?logo=adminer)
+
 
 <!--
 **TheNightBlue/TheNightBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
