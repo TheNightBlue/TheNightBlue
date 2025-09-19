@@ -2,7 +2,7 @@
 
 ![Discord Badge](https://img.shields.io/badge/yodelfuturo-5865F2?style=flat&logo=discord&logoColor=black)
 ## Skills:
-Ni Una
+Ninguna ☠️
 
 #### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
