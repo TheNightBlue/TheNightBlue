@@ -1,4 +1,5 @@
 ### Hola,Soy TheNightBlue👋
+<img src="https://i.imgur.com/tuGifRGB.gif" width="400"/>
 
 ![Discord Badge](https://img.shields.io/badge/yodelfuturo-5865F2?style=flat&logo=discord&logoColor=black)
 ## Skills:
