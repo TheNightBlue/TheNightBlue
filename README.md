@@ -1,7 +1,16 @@
-### Hola,Soy TheNightBlue👋
-<img src="https://i.imgur.com/tuGifRGB.gif" width="400"/>
+<h3 align="center">Hey there, I'm <a href="https://github.com/TheNightBlue">Eduardo</a> - TheNightBlue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
+## 📖 About me
+
+* 💻 I'm a Computer Science student with a strong interest in full stack web development
+* 🌐 I work with HTML, CSS, JavaScript, PHP, and MySQL for web applications
+* 📱 I develop mobile apps for Android and iOS using Flutter and FlutterFlow
+* 🔧 I have experience building backend systems and working with databases
+* 🚀 I enjoy learning new technologies and applying them in academic and personal projects
+* 🎓 Currently studying Computer Science
 
 ![Discord Badge](https://img.shields.io/badge/yodelfuturo-5865F2?style=flat&logo=discord&logoColor=black)
+
 ## Skills:
 Ninguna ☠️
 
